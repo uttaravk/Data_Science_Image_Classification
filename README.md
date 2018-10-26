@@ -1,4 +1,4 @@
-# Image-Classification
+# Image Classification
 ## Image Classification and Dimensionality Reduction
 
 #### Technologies: Scikit-Learn, Pandas. Algorithms: PCA, SVD, Random Projections. Model: K Neighbors classifier
